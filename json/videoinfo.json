@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Squats",
+    "time": "45 Sec",
+    "thumbnail":"images/leg1.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=xqvCmoLULNY"
+  },
+  {
+    "title": "Lunges",
+    "time": "45 Sec",
+    "thumbnail":"images/leg2.jpg",
+    "videoUrl": "https://www.youtube.com/shorts/IEB8cd1BfQU"
+  },
+  {
+    "title": "Split squat",
+    "time": "45 Sec",
+    "thumbnail":"images/leg3.jpg",
+    "videoUrl": "https://www.youtube.com/shorts/uODWo4YqbT8"
+  },
+  {
+    "title": "Leg press",
+    "time": "45 Sec",
+    "thumbnail":"images/leg4.jpg",
+    "videoUrl": "https://www.youtube.com/shorts/7GAf__qGP84"
+  },
+  {
+    "title": "Goblin Lunges",
+    "time": "45 Sec",
+    "thumbnail":"images/leg5.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=MxfTNXSFiYI"
+  },
+  {
+    "title": "Deadlift",
+    "time": "45 Sec",
+    "thumbnail":"images/leg6.jpg",
+    "videoUrl": "https://www.youtube.com/shorts/5rIqP63yWFg"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Glutes",
+    "img": "images/ex1.jpg"
+  },
+  {
+    "title": "Abs",
+    "img": "images/ex2.jpg"
+  },
+  {
+    "title": "Legs",
+    "img": "images/ex3.jpg"
+  },
+  {
+    "title": "chest",
+    "img": "images/ex5.jpg"
+  },
+  {
+    "title": "bicep",
+    "img": "images/ex4.jpg"
+  },
+  {
+    "title": "tricep",
+    "img": "images/ex8.jpg"
+  },
+  {
+    "title": "sholder",
+    "img": "images/ex7.jpg"
+  },
+  {
+    "title": "back",
+    "img": "images/ex6.jpg"
+  }
+]
